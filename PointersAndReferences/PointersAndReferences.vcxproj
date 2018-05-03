@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{929156FE-2EFA-4775-834A-33EFC68CD932}</ProjectGuid>
+    <ProjectGuid>{B64E03E5-9F9A-486B-A3B7-4C9670AA513D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CPlusPlus</RootNamespace>
+    <RootNamespace>PointersAndReferences</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPlusPlus.cpp" />
+    <ClCompile Include="PointersAndReferences.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
