@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{940E2CED-DE96-47D0-9043-6904E9560C18}</ProjectGuid>
+    <ProjectGuid>{9E4B7C6A-F593-49F8-AE70-4BDDBAF90D26}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>AAAAAReadMe</RootNamespace>
+    <RootNamespace>HashReadMe</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AAAAAReadMe.cpp" />
+    <ClCompile Include="HashReadMe.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
